@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.percent.PercentFrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:appCompat="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<!--
+
+    <Button
+        android:id="@+id/precent_button2"
+        android:text="precent_button2"
+        android:layout_gravity="left|top"
+        appCompat:layout_widthPrecent="50%"
+        appCompat:layout_heightPrecent="50%"
+        />
+
+    <Button
+        android:id="@+id/precent_button1"
+        android:text="precent_button1"
+        android:layout_gravity="right|top"
+        appCompat:layout_widthPrecent="50%"
+        appCompat:layout_heightPrecent="50%"
+        />
+
+    <Button
+        android:id="@+id/precent_button3"
+        android:text="precent_button1"
+        android:layout_gravity="left|bottom"
+        appCompat:layout_widthPrecent="50%"
+        appCompat:layout_heightPrecent="50%"
+        />
+    <Button
+        android:id="@+id/precent_button4"
+        android:text="precent_button2"
+        android:layout_gravity="right|bottom"
+        appCompat:layout_widthPrecent="50%"
+        appCompat:layout_heightPrecent="50%"
+        />
+-->
+
+</android.support.percent.PercentFrameLayout>
